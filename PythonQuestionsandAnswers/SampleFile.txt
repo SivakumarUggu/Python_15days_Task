@@ -1,1 +1,1 @@
-github makes our work easier.
+github makes our work easier. github is a distributed version control system.
