@@ -1,2 +1,0 @@
-github makes our work easier. github is a distributed version control system.
-github is a remote repo or origin.
